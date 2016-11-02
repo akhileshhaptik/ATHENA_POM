@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/asg.cliche-110413.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/commons-vfs2-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/imageClient.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/jsch-0.1.31.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/quartz-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/selenium-api-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/selenium-remote-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/selenium-server-standalone-2.53.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/selenium-support-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/xmlrpc-client-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/data copied/automation/automation/ATF-lib-2016-07-01/ATF-lib/atf-lib/xmlrpc-common-3.1.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/WEB_FRAMEWORK"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
